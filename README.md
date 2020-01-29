@@ -18,7 +18,7 @@ The certificate requires completion of __four total courses,__ one of which is a
 For students entering in 2020-2021:
 
   * __Spring 2020__: PPHA 30535 Data and Programming for Public Policy I
-  * __  Fall 2020__: PPHA 30536 Data and Programming for Public Policy II
+  * __Fall 2020__: PPHA 30536 Data and Programming for Public Policy II
   * __Winter 2021__: PPHA 30545 Machine Learning
 
 Plus one of the following elective options:
