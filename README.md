@@ -32,6 +32,8 @@ Plus one of the following elective options:
   
 If you are interested in purusing this certificate, it is important that you plan with your advisor well in advance, since many of the classes are offered only once each academic year. For more details, see the [Harris Courses](https://harris.uchicago.edu/academics/programs-degrees/courses) page.
 
+For students who began the certificate in 2019 or earlier, see the previous description here (LINK TO CURRENT PAGE).
+
 ## Language Options: Python or R
 
 For the first time beginning Spring 2020, Harris will be offering students the option of which language to learn in the first two courses of the sequence. __Unless you know in advance which language you prefer, it is recommended you take whichever course fits best in your schedule.__
