@@ -1,5 +1,7 @@
 # Certificate in Data Analytics
 
+[Link to current page for reference]( https://harris.uchicago.edu/academics/design-your-path/certificates/certificate-data-analytics)
+
 Both the quantity and complexity of data available for public policy formulation and evaluation has grown enormously. This has led to the growing importance of supplementing policy analysis with data. The certificate in data analytics seeks to prepare students for careers where data analysis plays a central role.
 
 Students who complete this certificate will be able to:
@@ -32,7 +34,7 @@ Plus one of the following elective options:
   
 If you are interested in purusing this certificate, it is important that you plan with your advisor well in advance, since many of the classes are offered only once each academic year. For more details, see the [Harris Courses](https://harris.uchicago.edu/academics/programs-degrees/courses) page.
 
-For students who began the certificate in 2019 or earlier, see the previous description here (LINK TO CURRENT PAGE).
+For students who began the certificate in 2019 or earlier, see the previous description here (ARCHIVED LINK TO CURRENT PAGE).
 
 ## Language Options: Python or R
 
