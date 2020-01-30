@@ -9,7 +9,7 @@ Students who complete this certificate will be able to:
   * Skillfully work with the modern, open-source languages of data analysis: Python or R
   * Develop a grasp of good programming principles that will allow them to flexibly gain understanding of other platforms when necessary
   * Organize and clean data from disparate, messy, or unstructured sources
-  * Describe and analyze data for the evaluation of policy
+  * Describe, plot, and analyze data for the evaluation of policy
   
 # Certificate Requirements
 
@@ -32,7 +32,7 @@ Plus one of the following elective options:
   * PPHA 42100 Applied Econometrics II
   * PPHA 60000 Policy Labs projects, with permission of certificate head
   
-If you are interested in purusing this certificate, it is important that you plan with your advisor well in advance, since many of the classes are offered only once each academic year. For more details, see the [Harris Courses](https://harris.uchicago.edu/academics/programs-degrees/courses) page.
+It is important that you plan with your advisor well in advance if you are interested in purusing this certificate, since many of the classes are offered only once each academic year. For more details, see the [Harris Courses](https://harris.uchicago.edu/academics/programs-degrees/courses) page.
 
 For students who began the certificate in 2019 or earlier, see the previous description here (ARCHIVED LINK TO CURRENT PAGE).
 
