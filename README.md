@@ -1,4 +1,4 @@
-# Certificate in Data Analytics
+# Harris Certificate in Data Analytics
 
 [Link to current page for reference]( https://harris.uchicago.edu/academics/design-your-path/certificates/certificate-data-analytics)
 
@@ -17,10 +17,10 @@ The certificate requires completion of __four total courses,__ one of which is a
 
 ## Required Courses
 
-For students entering in 2020-2021:
+For students who plan to graduate in 2021:
 
-  * __Spring 2020__: PPHA 30535 Data and Programming for Public Policy I
-  * __Fall 2020__: PPHA 30536 Data and Programming for Public Policy II
+  * __Spring 2020__: PPHA 30535 Data and Programming for Public Policy I [xxx update when we have a separate number for each course]
+  * __Fall 2020__: PPHA 30536 Data and Programming for Public Policy II [xxx update when we have a separate number for each course]
   * __Winter 2021__: PPHA 30545 Machine Learning
 
 Plus one of the following elective options:
@@ -42,7 +42,7 @@ For the first time beginning Spring 2020, Harris will be offering students the o
 
 In the professional world, both options are equally viable, and it is in fact useful to know both. Our philosophy is that learning one of Python or R very well will allow you to easily transition to the other should the need arise. Therefore, you should plan to take the same language in both 30535 and 30536, but with the knowledge that you're learning fundamentals that apply equally well to both languages.
 
-Currently, __Python-based sections are taught by Jeffrey Levy__ and __R-based sections are taught by Peter Ganong.__ All sections are carefully aligned as much as possible based on subject matter covered, workload, and grading, so that students have as similar an experience as possible regardless of language choice.
+All sections are carefully aligned as much as possible based on subject matter covered, workload, and grading, so that students have as similar an experience as possible regardless of language choice.
 
 ## Application Process
 
