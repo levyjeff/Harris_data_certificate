@@ -1,7 +1,5 @@
 # Harris Certificate in Data Analytics
 
-[Link to current page for reference]( https://harris.uchicago.edu/academics/design-your-path/certificates/certificate-data-analytics)
-
 Both the quantity and complexity of data available for public policy formulation and evaluation has grown enormously. This has led to the growing importance of supplementing policy analysis with data. The certificate in data analytics seeks to prepare students for careers where data analysis plays a central role.
 
 Students who complete this certificate will be able to:
@@ -19,8 +17,8 @@ The certificate requires completion of __four total courses,__ one of which is a
 
 For students who plan to graduate in 2021:
 
-  * __Spring 2020__: PPHA 30535 Data and Programming for Public Policy I [xxx update when we have a separate number for each course]
-  * __Fall 2020__: PPHA 30536 Data and Programming for Public Policy II [xxx update when we have a separate number for each course]
+  * __Spring 2020__: PPHA 30535 Data and Programming for Public Policy I
+  * __Fall 2020__: PPHA 30536 Data and Programming for Public Policy II
   * __Winter 2021__: PPHA 30545 Machine Learning
 
 Plus one of the following elective options:
@@ -32,9 +30,9 @@ Plus one of the following elective options:
   * PPHA 42100 Applied Econometrics II
   * PPHA 60000 Policy Labs projects, with permission of certificate head
   
-It is important that you plan with your advisor well in advance if you are interested in purusing this certificate, since many of the classes are offered only once each academic year. For more details, see the [Harris Courses](https://harris.uchicago.edu/academics/programs-degrees/courses) page.
+__Note that if you do not begin the required courses in the spring of 2020, then you will not be able to complete the certificate before graduation in 2021.__ Please plan with your advisor well in advance if you are interested in pursuing this certificate. For more details, see the [Harris Courses](https://harris.uchicago.edu/academics/programs-degrees/courses) page.
 
-For students who began the certificate in 2019 or earlier, see the previous description here (ARCHIVED LINK TO CURRENT PAGE).
+For students who began the certificate in 2019 or earlier, see the previous description [here]( https://harris.uchicago.edu/academics/design-your-path/certificates/certificate-data-analytics).
 
 ## Language Options: Python or R
 
